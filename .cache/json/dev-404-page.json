@@ -1,0 +1,60 @@
+{
+    "data": {
+        "allSitePage": {
+            "totalCount": 10,
+            "edges": [
+                {
+                    "node": {
+                        "path": "/tags"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/tags/latin"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/tags/sample"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/tags/first"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/sample-post"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/hello-world.html"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/404/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/404.html"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/hello-world-dangdang"
+                    }
+                }
+            ]
+        }
+    },
+    "pathContext": {}
+}
